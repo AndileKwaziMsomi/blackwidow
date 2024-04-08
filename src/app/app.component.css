@@ -1,0 +1,96 @@
+body {
+  background-image: url("../assets/blackwidow2.jpg");
+  font-family: Arial, sans-serif; 
+  color: white;
+}
+
+.container {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  
+}
+
+.paragraph {
+  margin-bottom: 20px;
+  font-family:Roboto, sans-serif;
+}
+
+
+
+
+
+
+form input[type="email"] {
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 300px;
+  max-width: 100%;
+  
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  margin-top:10px;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.fa-instagram {
+  font-size: 30px; 
+  position: fixed; 
+  bottom: 3px; 
+  right: 20px; 
+  border: 2px solid #000; 
+  border-radius: 50%;
+  padding: 8px;
+  background-color: #3f3e3e; 
+}
+
+.fa-instagram:hover{
+  background-color: #7b588b;
+}
+
+
+.fa-twitter {
+  font-size: 30px; 
+  position: fixed; 
+  bottom: 3px; 
+  right: 100px; 
+  border: 2px solid #000; 
+  border-radius: 50%;
+  padding: 8px;
+  background-color: #3f3e3e; 
+}
+
+.fa-twitter:hover{
+  background-color: #079fc5;
+}
+
+
+.fa-whatsapp {
+  font-size: 30px; 
+  position: fixed; 
+  bottom: -60px; 
+  right: 20px; 
+  border: 2px solid #000; 
+  border-radius: 50%;
+  padding: 8px;
+  background-color: #3f3e3e;
+}
+
+.fa-whatsapp:hover{
+  background-color: #2d9e69;
+}
+
