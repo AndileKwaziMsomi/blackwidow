@@ -1,0 +1,65 @@
+.container{
+    font-family: monospace;
+    margin-top:150px;
+    margin-left:140px;
+}
+.container p{
+    font-family:monospace;
+    text-transform: uppercase;
+}
+.font{
+    font-size:70px;
+}
+.line{
+    
+    height: 3px;
+    background-color: black; 
+  }
+  
+.fa-facebook {
+    font-size: 20px; 
+    position:absolute; 
+    top: 1450px;
+    left:350px; 
+    border: 2px solid #000; 
+    border-radius: 20%;
+    padding: 8px;
+    background-color: white; 
+  }
+  
+  .fa-facebook:hover{
+    background-color:RGB(23, 169, 253);
+  }
+  
+  .fa-twitter {
+    font-size: 20px; 
+    position:absolute; 
+    top: 1450px;
+    left:250px;
+    border: 2px solid #000; 
+    border-radius: 20%;
+    padding: 8px;
+    background-color: white; 
+  }
+  
+  .fa-twitter:hover{
+    background-color: #94e5fa;
+  
+  }
+
+  .fa-whatsapp {
+    font-size: 20px; 
+    position:absolute; 
+    top: 1450px;
+    left:150px;
+    border: 2px solid #000; 
+    border-radius: 20%;
+    padding: 8px;
+    background-color: white; 
+  }
+  
+  .fa-whatsapp:hover{
+    background-color: #57bb6d;
+  
+  }
+ 
