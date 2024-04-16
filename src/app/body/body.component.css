@@ -19,8 +19,8 @@
 .fa-facebook {
     font-size: 20px; 
     position:absolute; 
-    top: 1450px;
-    left:350px; 
+    top: 390px;
+    left:2000px; 
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
@@ -34,8 +34,8 @@
   .fa-twitter {
     font-size: 20px; 
     position:absolute; 
-    top: 1450px;
-    left:250px;
+    top: 390px;
+    left:1900px; 
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
@@ -50,8 +50,8 @@
   .fa-whatsapp {
     font-size: 20px; 
     position:absolute; 
-    top: 1450px;
-    left:150px;
+    top: 390px;
+    left:1800px; 
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
@@ -62,4 +62,6 @@
     background-color: #57bb6d;
   
   }
- 
+ .bdy{
+  font-size:30px;
+ }
