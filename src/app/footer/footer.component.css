@@ -1,0 +1,39 @@
+.footer {
+    background-color: #333; 
+    color: #fff;
+    padding: 200px; 
+    text-align: center; 
+    position: relative; 
+    top: 400px;
+    width: 100%; 
+}
+  .icons{
+    font-size: 5px; 
+    position:absolute; 
+    bottom :330px;
+    left:500px;  
+  }
+  .number{
+    position: relative;
+    right:500px;
+    top:100px;
+  }
+ .icon-2{
+    position: relative;
+    bottom:10px;
+ }
+ .email{
+    position: relative;
+    bottom:1px;
+ }
+ .icon-3{
+    position: relative;
+    bottom:30px;
+    left:500px;
+    bottom:100px;
+ }
+ .location{
+    position: relative;
+    left:520px;
+    bottom:80px;
+ }

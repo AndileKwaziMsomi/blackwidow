@@ -13,7 +13,7 @@
 .line{
     
     height: 3px;
-    background-color: black; 
+    background-color: rgb(233, 221, 221); 
   }
   
 .fa-facebook {
@@ -24,7 +24,7 @@
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
-    background-color: white; 
+    background-color: rgb(19, 19, 19); 
   }
   
   .fa-facebook:hover{
@@ -39,7 +39,7 @@
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
-    background-color: white; 
+    background-color: rgb(19, 19, 19); 
   }
   
   .fa-twitter:hover{
@@ -55,7 +55,7 @@
     border: 2px solid #000; 
     border-radius: 20%;
     padding: 8px;
-    background-color: white; 
+    background-color: rgb(19, 19, 19); 
   }
   
   .fa-whatsapp:hover{
@@ -73,3 +73,4 @@
   position: relative;
   top:50px;
  }
+ 
