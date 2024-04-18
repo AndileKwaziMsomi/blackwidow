@@ -10,30 +10,54 @@
   .icons{
     font-size: 5px; 
     position:absolute; 
-    bottom :330px;
+    top :100px;
     left:500px;  
   }
   .number{
     position: relative;
     right:500px;
-    top:100px;
+    bottom:15px;
   }
  .icon-2{
     position: relative;
-    bottom:10px;
+    bottom:130px;
  }
  .email{
     position: relative;
-    bottom:1px;
+    bottom:100px;
  }
  .icon-3{
     position: relative;
-    bottom:30px;
     left:500px;
-    bottom:100px;
+    bottom:210px;
  }
  .location{
     position: relative;
     left:520px;
-    bottom:80px;
+    bottom:190px;
+ }
+ .services{
+   list-style-type: none;
+   position: relative;
+   right:600px;
+
+ }
+ .htg{
+   position: relative;
+   right:575px;
+   margin-bottom: 80px;
+ }
+ ul li{
+   margin-bottom: 15px;
+ }
+ .ctc{
+   position: relative;
+   bottom:150px;
+ }
+ .contact-word{
+   position: relative;
+   bottom:230px;
+ }
+ ul li{
+   list-style: none;
  }

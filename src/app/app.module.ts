@@ -7,11 +7,11 @@ import { HeaderComponent } from './header/header.component';
 import { BodyComponent } from './body/body.component';
 import { FooterComponent } from './footer/footer.component';
 import { BackgroundComponent } from './background/background.component';
-import { AboutComponent } from './about/about.component';
+
 import{RouterModule, Routes} from '@angular/router';
 const appRoutes: Routes=[
   
-  {path:'about',component:AboutComponent}
+ 
 ];
 
 @NgModule({
@@ -21,7 +21,7 @@ const appRoutes: Routes=[
     BodyComponent,
     FooterComponent,
     BackgroundComponent,
-    AboutComponent
+  
   ],
   imports: [
     BrowserModule,
